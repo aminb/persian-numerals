@@ -31,4 +31,4 @@ By minimizing the program or clicking the X button on top of the window, the pro
 When the user runs the program for the first time, the settings dialog will be automatically shown and the user must choose a shortcut key to enable and disable the program's functionality. If the Persian language isn't installed on the computer, the user will be able to check "Simulate Persian Keyboard" to enable Persian keyboard. To switch between Persian and the original layout, the chosen hotkey may be used.
 
 
-http://aminbandali.com
+http://aminb.org
